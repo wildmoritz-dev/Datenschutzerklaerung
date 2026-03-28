@@ -8,6 +8,6 @@ Es findet keine Analyse des Nutzerverhaltens statt. Es werden keine Tracking Die
 
 Wenn du Fragen zur App oder zum Datenschutz hast, kannst du mich per E Mail kontaktieren.
 
-mw1899.dev@gmail.com
+support.peppr@gmail.com
 
-Stand 18.02.2026
+Stand 28.03.2026
